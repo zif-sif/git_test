@@ -2,3 +2,4 @@ some text
 some more test
 This is VSCode
 Another edit, commented with Ctrl + S
+This is on a new install of windows and wsl2
